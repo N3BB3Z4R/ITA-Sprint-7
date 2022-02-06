@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# ITAcademy - Sprint 7 - React II - Solution
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is the solution for Sprint 7 (React II).
+This is an application to make budgets permiting different budgets, save it with instant storage,
+defining several features and client name, also calculates a total cost and let you share the url
+to another person to see that budget.
+
+# Diagram
+
+![Diagrama de Flujo de la aplicación](https://raw.githubusercontent.com/N3BB3Z4R/ITA-Sprint-7/master/diagramaFlujo.png)
 
 ## Available Scripts
 
